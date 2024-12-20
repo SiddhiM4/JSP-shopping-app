@@ -1,0 +1,2 @@
+
+SQL> CREATE TABLE productdb(product_id INT PRIMARY KEY,product_name VARCHAR2(30),product_price FLOAT,product_qty NUMBER);
